@@ -16,7 +16,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    ImageView ivmainscan;    
+    ImageView ivmainscan;
     TextView tvmainscan;
     ProgressBar pbmainscan;
 
